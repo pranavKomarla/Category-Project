@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{D9DDA4B7-520E-4686-9E5C-8B3224E48D89}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TheFirst PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheFirst/appsettings.json">
+    <Files>
+      <File FileName="TheFirst/Program.cs" />
+      <File FileName="TheFirst/Views/Home/Index.cshtml" />
+      <File FileName="TheFirst/Properties/launchSettings.json" />
+      <File FileName="TheFirst/Models/Category.cs" />
+      <File FileName="TheFirst/appsettings.json" Line="14" Column="1" />
+      <File FileName="TheFirst/Controllers/Data/ApplicationDbContext.cs" />
+      <File FileName="TheFirst/Migrations/20231106064419_InitialCreate.cs" />
+      <File FileName="TheFirst/Migrations/20231106064419_InitialCreate.Designer.cs" />
+      <File FileName="TheFirst/Migrations/ApplicationDbContextModelSnapshot.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheFirst" expanded="True">
+            <Node name="TheFirst" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="Data" expanded="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
